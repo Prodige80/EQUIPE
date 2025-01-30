@@ -1,1 +1,4 @@
-echo Bonjour 
+echo "Prodige"
+echo "Bonjour" 
+hello
+hello
